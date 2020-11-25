@@ -4,7 +4,7 @@
 var pSlider, r1Slider, r2Slider, lSlider, sel;
 
 function setup(){
-    createCanvas(600,600);
+    createCanvas(600,600).parent("canvasContainer");;
     //create sliders, assign them with a class for css and position them on the canvas
     pSlider = createSlider(10,300,200);
     pSlider.class("slider");
