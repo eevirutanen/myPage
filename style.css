@@ -1,23 +1,25 @@
 body{
     margin: 0;
     background-color: blue;
+    font-family: "Arial";
+    color: white;
 }
 .slider{
-border: none;
-appearance: none;
-height: 20px;
-width: 200px;
-background: white;
-outline: none;
+    border: none;
+    appearance: none;
+    height: 20px;
+    width: 200px;
+    background: white;
+    outline: none;
 }
 .selection{
-border: none;
-appearance: none;
-width: 200px;
-height: 20px;
-background: white;
-outline: none;
-color: blue;
+    border: none;
+    appearance: none;
+    width: 200px;
+    height: 20px;
+    background: white;
+    outline: none;
+    color: blue;
 }
 
 #info{
