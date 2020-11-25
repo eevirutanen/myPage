@@ -1,8 +1,23 @@
-body {
+body{
     margin: 0;
-    background-color: black;
-    color: white;
-    font-family: "Arial";
+    background-color: blue;
+}
+.slider{
+border: none;
+appearance: none;
+height: 20px;
+width: 200px;
+background: white;
+outline: none;
+}
+.selection{
+border: none;
+appearance: none;
+width: 200px;
+height: 20px;
+background: white;
+outline: none;
+color: blue;
 }
 
 #info{
